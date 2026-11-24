@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="42" fill="#FAF7F2"/>
+  <circle cx="96" cy="96" r="58" fill="none" stroke="#1C1B19" stroke-width="5"/>
+  <!-- 锅 -->
+  <path d="M58 96h76a38 38 0 0 1-38 38 38 38 0 0 1-38-38z" fill="none" stroke="#1C1B19" stroke-width="6" stroke-linejoin="round"/>
+  <line x1="48" y1="96" x2="144" y2="96" stroke="#1C1B19" stroke-width="6" stroke-linecap="round"/>
+  <!-- 蒸汽 -->
+  <path d="M80 74c0-8 8-8 8-16" fill="none" stroke="#8C867C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M96 70c0-8 8-8 8-16" fill="none" stroke="#8C867C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M112 74c0-8 8-8 8-16" fill="none" stroke="#8C867C" stroke-width="4" stroke-linecap="round"/>
+</svg>
