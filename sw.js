@@ -1,5 +1,5 @@
-/* 我的菜谱 · 离线缓存 */
-const CACHE = 'myrecipes-v1';
+﻿/* 我的菜谱 · 离线缓存 */
+const CACHE = 'myrecipes-v2';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', e => {
